@@ -1,4 +1,4 @@
-# Functional JS: Reverse-engineering the Hype
+## Functional JS: Reverse-engineering the Hype
 
 _Begin with the End in Mind_. We'll use this age-old advice to examine the hype behind functional patterns in javascript. In place of mathematical proofs, we'll look at the results we can achieve with the tools available now, and dive into the functional ideas that drive them. The end goal is clear: to see if the hype is justified, we must look at how these patterns affect different parts of our front-end stack:
 
