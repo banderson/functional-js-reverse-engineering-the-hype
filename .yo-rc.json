@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Functional JS Apps: Reverse-engineering the Hype",
+    "packageVersion": "0.1.0",
+    "revealTheme": "solarized",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "banderson",
+    "githubRepository": "functional-js-reverse-engineering-the-hype"
+  }
+}
