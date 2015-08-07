@@ -61,7 +61,7 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: url('../img/keynote-logo.png') no-repeat;
+  background: url('../img/keynote-logo.png') #fff no-repeat;
   background-position: bottom right;
   background-size: 15%;
 }
