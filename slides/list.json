@@ -1,1 +1,6 @@
-["index.md"]
+[
+    "index.md",
+    "intro-cljs.md",
+    "big-tent-uncle-bob.md",
+    "big-tent-jdd.md"
+]
