@@ -12,9 +12,10 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
 
         <link rel="stylesheet" href="bower_components/reveal.js/css/reveal.css">
-    
-        <link rel="stylesheet" href="bower_components/reveal.js/css/theme/solarized.css" id="theme">
-    
+
+        <link rel="stylesheet" href="css/overrides.css" id="theme">
+
+        <link href='http://fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
 
         <!-- For syntax highlighting -->
         <link rel="stylesheet" href="bower_components/highlightjs/styles/zenburn.css">
@@ -67,7 +68,9 @@
             history: true,
             center: true,
 
-            transition: 'slide', // none/fade/slide/convex/concave/zoom
+            backgroundTransition: 'none',
+            transitionSpeed: 'fast',
+            transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/fade/none
 
             // Optional reveal.js plugins
             dependencies: [
