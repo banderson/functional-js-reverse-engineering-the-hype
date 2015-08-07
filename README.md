@@ -8,5 +8,5 @@ _Begin with the End in Mind_. We'll use this age-old advice to examine the hype 
 
 We can do all of this today with the tools and syntax we know and love, and there will be no shortage of recommendations on what to use and where to start.
 
-Note: I am not affiliated in any way with the projects and libraries featured here, I just think they are the best options and trying to pay it forward.
+Note: I am not affiliated in any way with the projects and libraries featured here, I just think they are the best options and want to give credit where credit is due.
 
