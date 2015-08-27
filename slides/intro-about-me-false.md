@@ -5,3 +5,8 @@
 <h3 class="fragment highlight-red">Published Author: Why Haskell Is Better Than Your Programming Language</h3><br>
 
 <h3>I'm Wearing a Shirt</h3>
+
+
+note:
+    I write Applications
+    I do NOT have a theoretical CS background
