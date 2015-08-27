@@ -8,18 +8,18 @@
  * Solarized colors by Ethan Schoonover
  */
 
-.highlight, .fragment.highlight-blue.visible, h1 em {
+.highlight, .fragment.highlight-blue.visible, h1 em, h2 em {
     background-color: rgba(92, 171, 212, 0.9);
     /*background-color: rgba(247,118,31,0.9);*/
     color: #fff !important;
     padding: 10px !important;
     font-style: italic !important;
 }
-.highlight::before, .fragment.highlight-blue.visible::before, h1 em:before {
+.highlight::before, .fragment.highlight-blue.visible::before, h1 em:before, h2 em:before {
   content: "{ ";
   color: rgba(255,255,255, 0.3);
 }
-.highlight::after, .fragment.highlight-blue.visible::after, h1 em:after {
+.highlight::after, .fragment.highlight-blue.visible::after, h1 em:after, h2 em:after {
   content: " }";
   color: rgba(255,255,255, 0.3);
 }
@@ -105,7 +105,7 @@ body {
 }
 
 .reveal h2 {
-    font-size: 61px;
+    font-size: 60px;
 }
 
 .reveal h3 {
