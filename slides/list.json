@@ -13,6 +13,15 @@
     "think-big-crockford-generational-ideas.md",
     "think-big-crockford-generational-ideas-2.md",
     "think-big-crockford-generational-ideas-3.md",
+    {
+        "filename": "es6-classes.md",
+        "attr": {
+            "data-background": "img/es6-classes.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1300px",
+            "data-background-color": "#1B2B34"
+        }
+    },
     "its-about-time.md",
     "djikstra.md"
 ]
