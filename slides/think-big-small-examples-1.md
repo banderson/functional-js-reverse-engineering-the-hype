@@ -1,8 +1,11 @@
 ## <em>Big Ideas</em><small> Small Examples</small>
-<br><br><br>
 
-<code>Insert example here</code>
+<pre class="fragment"><code>
+function curry(fn, arg) {...}
 
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+</code></pre><pre class="fragment"><code>function add(a, b) { return a + b }
+
+</code></pre><pre class="fragment"><code>let addTen = curry(add, 10);
+addTen(12); // => 22
+
+</code></pre>
