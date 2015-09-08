@@ -1,14 +1,11 @@
 # <em style="font-size: 130%">Adopting Big Ideas</em>
 
-<img src="./img/the-good-parts.jpg" width="40%" style="float: left" class="fragment" />
-
-<ul style="text-align: left; width: 55%; float: right; font-size: 100%">
-    <li class="fragment">It took a generation to agree that high-level languages were a good idea</li>
-    <li class="fragment">It took a generation to agree that objects were a good idea</li>
-    <li class="fragment">It took two generations to agree that lambdas were a good idea</li>
-</ul>
+<img src="./img/the-good-parts.jpg" width="40%" style="float: left" />
+<br><br>
+<h3>
+"wait for the previous generation to retire or _die_ before we can get critical mass on the next big idea"
+</h3>
 note:
-    it takes a generation of programmers to retire or _die off_ in order for new ideas and paradigms to take hold
 
     And the audience exploded in applause.
 
