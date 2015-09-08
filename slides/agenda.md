@@ -1,4 +1,4 @@
-# <em>Today's Agenda</em>
+# <em>Functional JS</em> Agenda
 <br><br>
 
 <h2 class="fragment">Introduction: Why bother?</h2><br>
