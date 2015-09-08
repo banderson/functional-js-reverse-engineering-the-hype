@@ -47,8 +47,9 @@ code {
     padding-left: 20px !important;
     font-size: 160% !important;
     line-height: 130% !important;
-    width: 1400px !important;
-    margin-left: -100px !important;
+    text-align: left;
+    width: 1000px !important;
+    margin-left: 0px !important;
     max-height: 550px !important;
 }
 
