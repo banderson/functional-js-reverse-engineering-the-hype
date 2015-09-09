@@ -1,6 +1,6 @@
 # Making <em>Real Apps</em>
 <br><br><br>
-<h2 class="fragment">UI Components</h2>
+<h2 class="fragment">Rethinking the View</h2>
 
 
 
