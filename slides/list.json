@@ -17,6 +17,9 @@
     "big-tent-uncle-bob.md",
     "big-tent-jdd.md",
     "think-big-crockford-generational-ideas-3.md",
+    "next-big-thing-uncle-bob.md",
+    "next-big-thing-moores-law.md",
+    "next-big-thing-moores-law-linear.md",
     {
         "filename": "es6-classes.md",
         "attr": {
@@ -27,24 +30,10 @@
         }
     },
     "making-real-apps-ui.md",
-    "making-real-apps-ui-tdd.md",
-    {
-        "filename": "cosmos.md",
-        "attr": {
-            "data-background": "img/cosmos-animated.gif"
-        }
-    },
+    "rethinking-the-model.md",
     "making-real-apps-dataflow.md",
-    {
-        "filename": "making-real-apps-dataflow-server.md",
-        "attr": {
-            "data-background": "img/server-render-flow.png",
-            "data-background-repeat": "none",
-            "data-background-size": "1300px"
-        }
-    },
-    "making-real-apps-dataflow-unidirectional-1.md",
-    "making-real-apps-dataflow-unidirectional-2.md",
+    "rethinking-performance.md",
     "its-about-time.md",
+    "rethinking-the-mental-model.md",
     "djikstra.md"
 ]
