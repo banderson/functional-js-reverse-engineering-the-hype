@@ -5,5 +5,5 @@
 
 
 note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+    Immutable Records.
+    Services: functions that operate on records.
