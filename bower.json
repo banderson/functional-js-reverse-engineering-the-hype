@@ -1,8 +1,0 @@
-{
-  "name": "functional-js-apps-reverse-engineering-the-hype",
-  "version": "0.1.0",
-  "dependencies": {
-    "reveal.js": "~3.1.0",
-    "highlightjs": "~8.5.0"
-  }
-}
