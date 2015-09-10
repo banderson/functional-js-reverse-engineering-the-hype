@@ -20,6 +20,8 @@
   },
   "scripts": {
     "start": "grunt serve",
-    "test": "grunt test"
+    "test": "grunt test",
+    "deploy": "grunt buildcontrol:pages --force",
+    "dist": "grunt dist"
   }
 }
