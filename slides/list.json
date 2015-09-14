@@ -34,6 +34,11 @@
         }
     },
     "making-real-apps.md",
+    "making-real-apps-ui-shell.md",
+    "making-real-apps-ui-table.md",
+    "making-real-apps-ui-row.md",
+    "making-real-apps-ui-sidebar.md",
+    "making-real-apps-ui-controls.md",
     "making-real-apps-ui.md",
     "rethinking-the-model.md",
     "making-real-apps-dataflow.md",

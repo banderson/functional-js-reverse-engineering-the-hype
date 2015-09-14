@@ -43,6 +43,17 @@
     top: 15px;
 }
 
+img.screen {
+    width: 1000px;
+    height: 555px;
+}
+
+img.screen-next {
+    position:absolute;
+    top: 20px;
+    left: 0;
+}
+
 code {
     padding-left: 20px !important;
     font-size: 160% !important;

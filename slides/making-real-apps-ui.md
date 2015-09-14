@@ -1,6 +1,5 @@
-# Making <em>Real Apps</em>
-<br><br><br>
-<h2 class="fragment">Rethinking the View</h2>
+
+<h1 style="font-size: 400%"><em>λ Views</em></h1>
 
 
 
