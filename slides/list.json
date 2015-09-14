@@ -35,10 +35,21 @@
     },
     "making-real-apps.md",
     "making-real-apps-ui-shell.md",
+    "functional-core-imperative-shell.md",
+    "making-real-apps-ui.md",
+    "making-real-apps-ui-react.md",
+
     "making-real-apps-ui-table.md",
+    "collections.md",
+
     "making-real-apps-ui-row.md",
+    "models.md",
+
     "making-real-apps-ui-sidebar.md",
+    "queries.md",
+
     "making-real-apps-ui-controls.md",
+
     "making-real-apps-ui.md",
     "rethinking-the-model.md",
     "making-real-apps-dataflow.md",
