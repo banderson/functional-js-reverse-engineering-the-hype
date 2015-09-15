@@ -38,16 +38,19 @@
     "ui-solution.md",
 
     "making-real-apps-ui-table.md",
-    "collections.md",
-    "collections-overview.md",
-    "collections-files.md",
-    "collections-libraries.md",
-
     "making-real-apps-ui-row.md",
     "models.md",
     "models-overview.md",
-    "models-files.md",
-    "models-libraries.md",
+    "models-immutable.md",
+    "models-problem.md",
+    "models-solution.md",
+
+    "making-real-apps-ui-table.md",
+    "collections.md",
+    "collections-overview.md",
+    "collections-store.md",
+    "collections-files.md",
+    "collections-libraries.md",
 
     "making-real-apps-ui-sidebar.md",
     "queries.md",

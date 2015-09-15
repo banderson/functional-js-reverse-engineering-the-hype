@@ -1,1 +1,1 @@
-<h1 style="font-size: 400%"><em>λ Models</em></h1>
+<h1 style="font-size: 290%"><em>λ Domain Models</em></h1>
