@@ -18,8 +18,6 @@
     "big-tent-jdd.md",
     "big-tent-haters.md",
     "why-javascript.md",
-    "why-javascript-list.md",
-    "why-javascript-list2.md",
     "think-big-crockford-generational-ideas-3.md",
     "next-big-thing-uncle-bob.md",
     "next-big-thing-moores-law.md",
@@ -33,6 +31,7 @@
             "data-background-color": "#1B2B34"
         }
     },
+    "good-parts-functions.md",
     "making-real-apps.md",
     "making-real-apps-ui-shell.md",
     "functional-core-imperative-shell.md",
@@ -41,18 +40,24 @@
 
     "making-real-apps-ui-table.md",
     "collections.md",
+    "collections-overview.md",
+    "collections-files.md",
+    "collections-libraries.md",
 
     "making-real-apps-ui-row.md",
     "models.md",
+    "models-overview.md",
+    "models-files.md",
+    "models-libraries.md",
 
     "making-real-apps-ui-sidebar.md",
     "queries.md",
+    "queries-overview.md",
+    "queries-files.md",
+    "queries-libraries.md",
 
     "making-real-apps-ui-controls.md",
 
-    "making-real-apps-ui.md",
-    "rethinking-the-model.md",
-    "making-real-apps-dataflow.md",
     "rethinking-performance.md",
     "complecting.md",
     "complecting-2.md",
