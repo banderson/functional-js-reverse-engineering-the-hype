@@ -1,1 +1,1 @@
-<h1 style="font-size: 370%"><em>λ Collections</em></h1>
+<h1 style="font-size: 253%"><em>λ Data Management</em></h1>

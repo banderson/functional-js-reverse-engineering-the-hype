@@ -11,8 +11,6 @@
     "think-big-crockford-generational-ideas-4.md",
     "making-real-apps.md",
     "agenda.md",
-    "intro-about-me.md",
-    "intro-about-me-false.md",
     "intro-about-me-practitioner.md",
     "big-tent-uncle-bob.md",
     "big-tent-jdd.md",
@@ -33,10 +31,11 @@
     },
     "good-parts-functions.md",
     "making-real-apps.md",
+
     "making-real-apps-ui-shell.md",
-    "functional-core-imperative-shell.md",
     "making-real-apps-ui.md",
-    "making-real-apps-ui-react.md",
+    "ui-problems.md",
+    "ui-solution.md",
 
     "making-real-apps-ui-table.md",
     "collections.md",
