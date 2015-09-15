@@ -15,11 +15,12 @@
     "big-tent-uncle-bob.md",
     "big-tent-jdd.md",
     "big-tent-haters.md",
-    "why-javascript.md",
+    "why-functional.md",
     "think-big-crockford-generational-ideas-3.md",
     "next-big-thing-uncle-bob.md",
     "next-big-thing-moores-law.md",
     "next-big-thing-moores-law-linear.md",
+    "why-javascript.md",
     {
         "filename": "es6-classes.md",
         "attr": {
@@ -30,6 +31,9 @@
         }
     },
     "good-parts-functions.md",
+    "why-javascript-capability.md",
+
+
     "making-real-apps.md",
 
     "making-real-apps-ui-shell.md",
