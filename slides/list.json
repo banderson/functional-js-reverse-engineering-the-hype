@@ -77,15 +77,25 @@
         }
     },
     "queries-pipeline.md",
-    "queries-benefits.md",
 
     "making-real-apps-ui-table.md",
     "making-real-apps-ui-controls.md",
-    "collections.md",
-    "collections-overview.md",
-    "collections-store.md",
-    "collections-files.md",
-    "collections-libraries.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/flux.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1000px"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/redux-unidir-ui-arch.jpg",
+            "data-background-repeat": "none",
+            "data-background-size": "1000px"
+        }
+    },
 
     "complecting.md",
     "complecting-2.md",
