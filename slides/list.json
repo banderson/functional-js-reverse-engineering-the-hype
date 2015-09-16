@@ -48,14 +48,35 @@
     "models-immutable.md",
     "models-immutable-2.md",
     "models-immutable-3.md",
-    "models-problem.md",
+    {
+        "filename": "models-problem.md",
+        "attr": {
+            "data-background": "img/ticker-record.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1400px"
+        }
+    },
     "models-solution.md",
 
     "making-real-apps-ui-sidebar.md",
     "queries.md",
-    "queries-overview.md",
-    "queries-files.md",
-    "queries-libraries.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/open-price-calc.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1200px"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/rsi-calc.png",
+            "data-background-repeat": "none",
+            "data-background-size": "600px"
+        }
+    },
+    "queries-pipeline.md",
     "queries-benefits.md",
 
     "making-real-apps-ui-table.md",

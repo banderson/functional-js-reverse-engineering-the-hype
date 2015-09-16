@@ -1,0 +1,2 @@
+
+`getQualifyingStocks()` | `calcAverage()` | `calcRSI()`
