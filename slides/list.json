@@ -1,11 +1,43 @@
 [
     "index.md",
     "think-big-beginning-oop.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/animal.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1300px",
+            "data-background-color": "#1B2B34"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/dog.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1000px",
+            "data-background-color": "#1B2B34"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/person.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1100px",
+            "data-background-color": "#1B2B34"
+        }
+    },
     "think-big-small-examples.md",
-    "think-big-small-examples-1.md",
-    "think-big-small-examples-2.md",
-    "think-big-small-examples-3.md",
-    "think-big-small-examples-4.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/curry.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1100px",
+            "data-background-color": "#1B2B34"
+        }
+    },
     "think-big-crockford-generational-ideas.md",
     "think-big-crockford-generational-ideas-2.md",
     "think-big-crockford-generational-ideas-4.md",
