@@ -74,17 +74,19 @@
     "ui-solution.md",
     "ui-solution-alternatives.md",
     "ui-solution-alternatives-2.md",
+    "functional-ui-components.md",
+    {
+        "filename": "es6-classes.md",
+        "attr": {
+            "data-background": "img/transaction-component.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1300px",
+            "data-background-color": "#1B2B34"
+        }
+    },
 
     "making-real-apps-ui-table.md",
-    "making-real-apps-ui-row.md",
     "models.md",
-    "models-overview.md",
-    "models-framework-thinking.md",
-    "models-framework-thinking-2.md",
-    "models-framework-thinking-3.md",
-    "models-framework-thinking-4.md",
-    "models-framework-thinking-5.md",
-
     "models-primitive-obsession.md",
     "models-primitive-obsession-2.md",
     "models-immutable-2.md",
@@ -98,6 +100,7 @@
         }
     },
     "models-solution.md",
+
 
     "making-real-apps-ui-sidebar.md",
     "queries.md",
@@ -117,6 +120,8 @@
             "data-background-size": "600px"
         }
     },
+    "queries-pipeline-mutable.md",
+    "queries-pipeline-immutable.md",
     "queries-pipeline.md",
 
     "making-real-apps-ui-table.md",
@@ -140,8 +145,8 @@
 
     "complecting.md",
     "complecting-2.md",
+
     "rethinking-the-mental-model.md",
-    "its-about-time.md",
     "djikstra.md",
     "djikstra-2.md",
     "djikstra-3.md",

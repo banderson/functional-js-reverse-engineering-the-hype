@@ -1,7 +1,7 @@
-# Making <em>Real Apps</em>
+<h1 style="font-size: 250%"><em>λ Mental Model</em></h1>
 <br><br><br>
-<h2 class="fragment">Rethinking the Mental Model</h2>
-
+<h1 class="fragment">Static and Predictable</h1>
+<br><br><br>
 
 
 note:

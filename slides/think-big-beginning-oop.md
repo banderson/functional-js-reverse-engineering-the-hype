@@ -1,5 +1,6 @@
 <h1><em style="font-size: 125%">Learning to Program</em></h1>
 <br><br><br>
+<h1 class="fragment">as a working programmer</h1>
 
 note:
     Think back to the first time you learned OOP
