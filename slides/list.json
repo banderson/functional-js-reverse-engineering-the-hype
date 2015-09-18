@@ -53,6 +53,8 @@
     "next-big-thing-moores-law.md",
     "next-big-thing-moores-law-linear.md",
     "why-javascript.md",
+    "why-javascript-capability.md",
+    "good-parts-functions.md",
     {
         "filename": "es6-classes.md",
         "attr": {
@@ -62,9 +64,6 @@
             "data-background-color": "#1B2B34"
         }
     },
-    "good-parts-functions.md",
-    "why-javascript-capability.md",
-
 
     "making-real-apps.md",
 
@@ -128,8 +127,26 @@
     "queries-pipeline-immutable.md",
     "queries-pipeline.md",
 
-    "making-real-apps-ui-table.md",
     "making-real-apps-ui-controls.md",
+    "making-real-apps-ui-table.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/change_ahead.jpg",
+            "data-background-repeat": "none",
+            "data-background-size": "100%"
+        }
+    },
+    "framework-for-change.md",
+    "framework-redux.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/redux-unidir-ui-arch.jpg",
+            "data-background-repeat": "none",
+            "data-background-size": "auto 100%"
+        }
+    },
     {
         "filename": "empty.md",
         "attr": {
@@ -141,11 +158,12 @@
     {
         "filename": "empty.md",
         "attr": {
-            "data-background": "img/redux-unidir-ui-arch.jpg",
+            "data-background": "img/flux-on-redux.png",
             "data-background-repeat": "none",
-            "data-background-size": "1000px"
+            "data-background-size": "1200px"
         }
     },
+    "demo.md",
 
     "complecting.md",
     "complecting-2.md",
