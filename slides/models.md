@@ -2,4 +2,4 @@
 <br><br><br>
 <h1 class="fragment">"The Data"</h1>
 <br><br><br>
-<h1 class="fragment">Models and Collections</h1>
+<h1 class="fragment">Collections and Models</h1>

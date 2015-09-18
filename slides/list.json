@@ -87,9 +87,10 @@
 
     "making-real-apps-ui-table.md",
     "models.md",
+    "models-immutable-2.md",
+    "collections.md",
     "models-primitive-obsession.md",
     "models-primitive-obsession-2.md",
-    "models-immutable-2.md",
     "models-immutable-3.md",
     {
         "filename": "empty.md",
