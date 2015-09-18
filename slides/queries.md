@@ -1,5 +1,3 @@
-<h1 style="font-size: 250%"><em>λ Transforming Data</em></h1>
+<h1 style="font-size: 250%"><em>λ Queries</em></h1>
 <br><br><br>
-<h1 class="fragment">"The Functions"</h1>
-<br><br><br>
-<h1 class="fragment">Queries and Services</h1>
+<h2 class="fragment">Stateless function that accepts immutable data and transforms, calculates, reduces, repurposes...</h2>

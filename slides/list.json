@@ -105,6 +105,8 @@
 
 
     "making-real-apps-ui-sidebar.md",
+    "transforming-data.md",
+    "services.md",
     "queries.md",
     {
         "filename": "empty.md",
