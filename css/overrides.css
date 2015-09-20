@@ -78,9 +78,9 @@ body {
   background-size: 15%;
 }
 
-.reveal .slide-background {
+/*.reveal .slide-background {
     background-color: #fff;
-}
+}*/
 
 .controls {
     display: none !important;
