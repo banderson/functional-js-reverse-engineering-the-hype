@@ -1,29 +1,60 @@
 [
     "index.md",
     "think-big-beginning-oop.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/animal.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1300px",
+            "data-background-color": "#1B2B34"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/dog.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1000px",
+            "data-background-color": "#1B2B34"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/person.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1100px",
+            "data-background-color": "#1B2B34"
+        }
+    },
     "think-big-small-examples.md",
-    "think-big-small-examples-1.md",
-    "think-big-small-examples-2.md",
-    "think-big-small-examples-3.md",
-    "think-big-small-examples-4.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/curry.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1100px",
+            "data-background-color": "#1B2B34"
+        }
+    },
     "think-big-crockford-generational-ideas.md",
     "think-big-crockford-generational-ideas-2.md",
     "think-big-crockford-generational-ideas-4.md",
     "making-real-apps.md",
     "agenda.md",
-    "intro-about-me.md",
-    "intro-about-me-false.md",
     "intro-about-me-practitioner.md",
     "big-tent-uncle-bob.md",
     "big-tent-jdd.md",
     "big-tent-haters.md",
-    "why-javascript.md",
-    "why-javascript-list.md",
-    "why-javascript-list2.md",
+    "why-functional.md",
     "think-big-crockford-generational-ideas-3.md",
     "next-big-thing-uncle-bob.md",
     "next-big-thing-moores-law.md",
     "next-big-thing-moores-law-linear.md",
+    "why-javascript.md",
+    "why-javascript-capability.md",
+    "good-parts-functions.md",
     {
         "filename": "es6-classes.md",
         "attr": {
@@ -33,15 +64,103 @@
             "data-background-color": "#1B2B34"
         }
     },
+
     "making-real-apps.md",
+
+    "making-real-apps-ui-shell.md",
     "making-real-apps-ui.md",
-    "rethinking-the-model.md",
-    "making-real-apps-dataflow.md",
-    "rethinking-performance.md",
-    "complecting.md",
-    "complecting-2.md",
+    "ui-problems.md",
+    "ui-solution.md",
+    "ui-solution-alternatives.md",
+    "ui-solution-alternatives-2.md",
+    "functional-ui-components.md",
+    {
+        "filename": "es6-classes.md",
+        "attr": {
+            "data-background": "img/transaction-component.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1300px",
+            "data-background-color": "#1B2B34"
+        }
+    },
+
+    "making-real-apps-ui-table.md",
+    "models.md",
+    "models-immutable-2.md",
+    "collections.md",
+    "models-immutable.md",
+    "models-primitive-obsession.md",
+    "models-primitive-obsession-2.md",
+    "models-immutable-3.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/ticker-record.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1400px"
+        }
+    },
+    "models-solution.md",
+
+
+    "making-real-apps-ui-sidebar.md",
+    "transforming-data.md",
+    "services.md",
+    "queries.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/open-price-calc.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1200px"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/rsi-calc.png",
+            "data-background-repeat": "none",
+            "data-background-size": "600px"
+        }
+    },
+    "queries-pipeline-mutable.md",
+    "queries-pipeline-immutable.md",
+    "queries-pipeline.md",
+
+    "making-real-apps-ui-controls.md",
+    "making-real-apps-ui-table.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/change_ahead.jpg",
+            "data-background-repeat": "none",
+            "data-background-size": "100%"
+        }
+    },
+    "framework-for-change.md",
+    "framework-redux.md",
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/redux-unidir-ui-arch.jpg",
+            "data-background-repeat": "none",
+            "data-background-size": "auto 100%"
+        }
+    },
+    {
+        "filename": "empty.md",
+        "attr": {
+            "data-background": "img/flux.png",
+            "data-background-repeat": "none",
+            "data-background-size": "1000px"
+        }
+    },
+    "demo.md",
+
     "rethinking-the-mental-model.md",
-    "its-about-time.md",
+    "rethinking-mental-model-fn.md",
+    "rethinking-mental-model-dynamic.md",
+    "rethinking-mental-model-static.md",
     "djikstra.md",
     "djikstra-2.md",
     "djikstra-3.md",

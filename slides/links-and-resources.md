@@ -9,4 +9,6 @@
     <li><a href="http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey">Are We There Yet?</a></li>
     <li><a href="http://www.infoq.com/presentations/Simple-Made-Easy">Simple Made Easy</a></li>
     <li><a href="http://www.drdobbs.com/architecture-and-design/dave-thomas-interview-the-corruption-of/240166688?pgno=3">Dr. Dobbs: Interview w/Dave Thomas</a></li>
+    <li><a href="http://staltz.com/unidirectional-user-interface-architectures.html">Unidirection User Interface Architectures</a></li>
+    <li><a href="https://www.destroyallsoftware.com/screencasts/catalog/functional-core-imperative-shell">Functional Core, Imperative Shell</a></li>
 </ul>

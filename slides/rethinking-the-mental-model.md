@@ -1,7 +1,8 @@
-# Making <em>Real Apps</em>
+<h1 style="font-size: 250%"><em>λ Mental Model</em></h1>
 <br><br><br>
-<h2 class="fragment">Rethinking the Mental Model</h2>
-
+<h1>Static vs Dynamic</h1>
+<br><br><br>
+<h3>redux: "predictable", "behave consistently"</h3>
 
 
 note:

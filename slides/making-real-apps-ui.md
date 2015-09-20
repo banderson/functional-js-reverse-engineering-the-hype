@@ -1,9 +1,1 @@
-# Making <em>Real Apps</em>
-<br><br><br>
-<h2 class="fragment">Rethinking the View</h2>
-
-
-
-note:
-    Put your speaker notes here.
-    You can see them pressing 's'.
+<h1 style="font-size: 400%"><em>λ UIs</em></h1>
