@@ -155,20 +155,12 @@
             "data-background-size": "1000px"
         }
     },
-    {
-        "filename": "empty.md",
-        "attr": {
-            "data-background": "img/flux-on-redux.png",
-            "data-background-repeat": "none",
-            "data-background-size": "1200px"
-        }
-    },
     "demo.md",
 
-    "complecting.md",
-    "complecting-2.md",
-
     "rethinking-the-mental-model.md",
+    "rethinking-mental-model-fn.md",
+    "rethinking-mental-model-dynamic.md",
+    "rethinking-mental-model-static.md",
     "djikstra.md",
     "djikstra-2.md",
     "djikstra-3.md",
